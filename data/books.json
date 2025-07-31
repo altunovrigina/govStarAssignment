@@ -1,0 +1,115 @@
+[
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "release_year": 1949,
+    "tags": ["dystopian", "political fiction"]
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "release_year": 1813
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "release_year": 1951,
+    "tags": ["coming-of-age"]
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "release_year": 1960,
+    "tags": ["southern gothic", "legal drama"]
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "release_year": 1932
+  },
+  {
+    "title": "Slaughterhouse-Five",
+    "author": "Kurt Vonnegut",
+    "release_year": 1969,
+    "tags": ["anti-war", "science fiction"]
+  },
+  {
+    "title": "Beloved",
+    "author": "Toni Morrison",
+    "release_year": 1987,
+    "tags": ["historical fiction"]
+  },
+  {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "release_year": 2006
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "release_year": 1937,
+    "tags": ["fantasy", "adventure"]
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "release_year": 1818,
+    "tags": ["horror", "science fiction"]
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "release_year": 1866
+  },
+  {
+    "title": "Invisible Man",
+    "author": "Ralph Ellison",
+    "release_year": 1952,
+    "tags": ["African American literature"]
+  },
+  {
+    "title": "The Stranger",
+    "author": "Albert Camus",
+    "release_year": 1942,
+    "tags": ["existentialism"]
+  },
+  {
+    "title": "The Left Hand of Darkness",
+    "author": "Ursula K. Le Guin",
+    "release_year": 1969,
+    "tags": ["science fiction", "gender studies"]
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "release_year": 1880
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "release_year": 1967,
+    "tags": ["magical realism"]
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "release_year": 1953
+  },
+  {
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "release_year": 2007,
+    "tags": ["fantasy"]
+  },
+  {
+    "title": "Middlesex",
+    "author": "Jeffrey Eugenides",
+    "release_year": 2002
+  },
+  {
+    "title": "A Clockwork Orange",
+    "author": "Anthony Burgess",
+    "release_year": 1962,
+    "tags": ["dystopian"]
+  }
+]
